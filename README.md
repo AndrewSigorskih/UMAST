@@ -4,7 +4,7 @@
 About
 -----
 UMAST is a tool for calculating maximum agreement subtree for two phylogenetic 
-trees. It provides fast command-line interface for calculating maximum agreemet subtrees 
+trees. It provides fast command-line interface for calculating maximum agreement subtrees 
 for rooted and unrooted trees based on (Gordon, 1980).
 
 In addition, UMAST can also compute agreement subtree-based distance between two trees 
