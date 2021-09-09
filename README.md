@@ -18,7 +18,7 @@ which was fixed in this version.
 ------------
 Installation
 ------------
-Ungzip archive and run makefile.
+Run makefile.
 
 -----
 Input
