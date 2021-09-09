@@ -42,12 +42,12 @@ Command line arguments
 
 -2 second tree file
 
--r use this option if trees are rooted
+-r (optional) use this argument if trees are rooted
 
--o path to resulting (u)mast tree file, default ./umast.tre
+-o (optional) path to resulting (u)mast tree file, default ./umast.tre
 
--l path to log file, default ./umast.log
+-l (optional) path to log file, default ./umast.log
 
--d Print l-distance to stdout instead of agreement subtree size.
+-d (optional) Print l-distance to stdout instead of agreement subtree size.
 
 ./umast -1 tree1_path -2 tree2_path [-r] [-o outtreefile] [-l logfile] [-d]
