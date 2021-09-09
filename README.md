@@ -38,8 +38,11 @@ umast.log: text file containing log information about run.
 ----------------------
 Command line arguments
 ----------------------
+-1 first tree file
 
--r option for rooted trees
+-2 second tree file
+
+-r use this option if trees are rooted
 
 -o path to resulting (u)mast tree file, default ./umast.tre
 
