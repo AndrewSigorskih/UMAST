@@ -30,9 +30,9 @@ Command line arguments
 
 -r option for rooted trees
 
--o path to resulting (u)mast tree file, default ./umast.tre
+-o path to resulting (u)mast tree file, default umast.tre
 
--l path to log file, default ./umast.log
+-l path to log file, default umast.log
 
 -d Print L-distance to stdout instead of agreement subtree size.
 
